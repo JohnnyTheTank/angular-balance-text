@@ -1,0 +1,33 @@
+{
+  "name": "angular-balance-text",
+  "version": "1.0.0",
+  "description": "AngularJS Wrapper for jQuery balance-text for implementing balancing of wrapping text in a web page",
+  "main": "dist/angular-balance-text.min.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JohnnyTheTank/angular-balance-text.git"
+  },
+  "keywords": [
+    "balance-text",
+    "angularjs",
+    "angular"
+  ],
+  "author": "Jonathan Hornung <jonathan.hornung@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/JohnnyTheTank/angular-balance-text/issues"
+  },
+  "homepage": "https://github.com/JohnnyTheTank/angular-balance-text#readme",
+  "dependencies": {
+    "balance-text": "*"
+  },
+  "devDependencies": {
+    "grunt": "^0.4.5",
+    "grunt-contrib-concat": "^0.5.1",
+    "grunt-contrib-uglify": "^0.11.0",
+    "grunt-contrib-watch": "^0.6.1"
+  }
+}
