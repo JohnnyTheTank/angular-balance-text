@@ -6,6 +6,9 @@ AngularJS Wrapper for [jQuery balance-text](https://github.com/adobe-webplatform
 [![npm version](https://badge.fury.io/js/angular-balance-text.svg)](https://badge.fury.io/js/angular-balance-text)
 [![Bower version](https://badge.fury.io/bo/angular-balance-text.svg)](https://badge.fury.io/bo/angular-balance-text)
 
+## Demo
+[Simple demo](https://rawgit.com/JohnnyTheTank/angular-balance-text/master/demo/index.html)
+
 ## Installation
 
 1. Install via either [bower](http://bower.io/), [npm](https://www.npmjs.com/) or downloaded files:
