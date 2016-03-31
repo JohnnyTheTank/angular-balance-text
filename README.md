@@ -58,6 +58,6 @@ $scope.$broadcast('angular-balance-text.refresh');
 
 **Read the docs of jQuery balance-text [jQuery balance-text](https://github.com/adobe-webplatform/balance-text)**
 
-# License
+## License
 MIT
 
