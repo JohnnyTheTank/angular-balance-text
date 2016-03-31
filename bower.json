@@ -4,7 +4,7 @@
   "authors": [
     "Jonathan Hornung <jonathan.hornung@gmail.com>"
   ],
-  "version": "0.9.0",
+  "version": "1.0.0",
   "description": "AngularJS Wrapper for jQuery balance-text for implementing balancing of wrapping text in a web page",
   "main": "dist/angular-balance-text.min.js",
   "moduleType": [
