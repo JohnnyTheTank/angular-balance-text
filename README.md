@@ -1,5 +1,3 @@
-# WORK IN PROGRESS
-
 # angular-balance-text
 AngularJS Wrapper for [jQuery balance-text](https://github.com/adobe-webplatform/balance-text) for implementing balancing of wrapping text in a web page
 
