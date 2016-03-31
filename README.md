@@ -45,6 +45,14 @@ AngularJS Wrapper for [jQuery balance-text](https://github.com/adobe-webplatform
 
 Angular event to manually re-balance all triggered elements use `angular-balance-text.refresh`
 
+```javascript
+//dispatches the event upwards through the scope hierarchy
+$scope.$emit('angular-balance-text.refresh');
+
+//dispatches the event downwards to all child scopes
+$scope.$broadcast('angular-balance-text.refresh');
+```
+
 **Read the docs of jQuery balance-text [jQuery balance-text](https://github.com/adobe-webplatform/balance-text)**
 
 
