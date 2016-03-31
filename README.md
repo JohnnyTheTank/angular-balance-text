@@ -6,7 +6,7 @@ AngularJS Wrapper for [jQuery balance-text](https://github.com/adobe-webplatform
 [![npm version](https://badge.fury.io/js/angular-balance-text.svg)](https://badge.fury.io/js/angular-balance-text)
 [![Bower version](https://badge.fury.io/bo/angular-balance-text.svg)](https://badge.fury.io/bo/angular-balance-text)
 
-## Usage
+## Installation
 
 1. Install via either [bower](http://bower.io/), [npm](https://www.npmjs.com/) or downloaded files:
     1. via bower: `bower install --save angular-balance-text`
@@ -45,4 +45,11 @@ AngularJS Wrapper for [jQuery balance-text](https://github.com/adobe-webplatform
     <!-- angular-balance-text -->
     <script src="YOUR_PATH/angular-balance-text.min.js"></script>
     ```
-4. Use the css class `.balance-text`
+
+## Usage
+
+Angular event to manually re-balance all triggered elements use `angular-balance-text.refresh`
+
+**Read the docs of jQuery balance-text [jQuery balance-text](https://github.com/adobe-webplatform/balance-text)**
+
+
