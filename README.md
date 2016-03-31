@@ -17,9 +17,7 @@ AngularJS Wrapper for [jQuery balance-text](https://github.com/adobe-webplatform
 3. Include dependencies and angular-balance-text in your HTML.
     1. When using bower
     ```html
-    <!-- dependencies -->
-    <script src="bower_components/jquery/dist/jquery.min.js"></script>
-    <script src="bower_components/angular/angular.min.js"></script>
+    <!-- dependency -->
     <script src="bower_components/balance-text/jquery.balancetext.min.js"></script>
 
     <!-- angular-balance-text -->
@@ -27,9 +25,7 @@ AngularJS Wrapper for [jQuery balance-text](https://github.com/adobe-webplatform
     ```
     2. When using npm
     ```html
-    <!-- dependencies -->
-    <script src="node_modules/jquery/dist/jquery.min.js"></script>
-    <script src="node_modules/angular/angular.min.js"></script>
+    <!-- dependency -->
     <script src="node_modules/balance-text/jquery.balancetext.min.js"></script>
 
     <!-- angular-balance-text -->
@@ -38,9 +34,7 @@ AngularJS Wrapper for [jQuery balance-text](https://github.com/adobe-webplatform
 
     3. When using downloaded files
     ```html
-    <!-- dependencies -->
-    <script src="YOUR_PATH/jquery.min.js"></script>
-    <script src="YOUR_PATH/angular.min.js"></script>
+    <!-- dependency -->
     <script src="YOUR_PATH/jquery.balancetext.min.js"></script>
 
     <!-- angular-balance-text -->
