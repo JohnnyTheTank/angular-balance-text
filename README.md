@@ -43,6 +43,7 @@ AngularJS Wrapper for [jQuery balance-text](https://github.com/adobe-webplatform
 
 ## Usage
 
+### Event
 Angular event to manually re-balance all triggered elements use `angular-balance-text.refresh`
 
 ```javascript
@@ -53,6 +54,10 @@ $scope.$emit('angular-balance-text.refresh');
 $scope.$broadcast('angular-balance-text.refresh');
 ```
 
+### Documentation
+
 **Read the docs of jQuery balance-text [jQuery balance-text](https://github.com/adobe-webplatform/balance-text)**
 
+# License
+MIT
 
