@@ -21,7 +21,7 @@ AngularJS Wrapper for [jQuery balance-text](https://github.com/adobe-webplatform
     <script src="bower_components/balance-text/jquery.balancetext.min.js"></script>
 
     <!-- angular-balance-text -->
-    <script src="node_modules/angular-balance-text/dist/angular-balance-text.min.js"></script>
+    <script src="bower_components/angular-balance-text/dist/angular-balance-text.min.js"></script>
     ```
     2. When using npm
     ```html
